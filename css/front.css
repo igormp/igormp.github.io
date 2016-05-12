@@ -1,6 +1,6 @@
 body {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(0, 0, 0, 0.85);
     position: absolute; 
     top: 0;
     bottom: 0;
@@ -20,7 +20,7 @@ body {
 }
 
 h1 {
-    color: #DBDBDB;
+    color: #FFF;
     font-weight: bold;
     letter-spacing: 0.1em;
     font-size: 4em;
@@ -45,7 +45,7 @@ h1 {
 
 }
 h3 {
-    color: #DBDBDB;
+    color: #FFF;
     padding-bottom: 20px;
     text-shadow: 1.5px 1.5px 1.5px #000000;
 
@@ -96,20 +96,20 @@ ul {
 }
 li {
     border-radius: 100%;
-    border: 2px solid #DBDBDB;
-    color: #DBDBDB;
+    border: 2px solid #FFF;
+    color: #FFF;
     margin: 5px;
     display: inline-block;
     list-style: none;
 }
 a {
     border-radius: 100%;
-    color: #DBDBDB;
+    color: #FFF;
     padding: 18px;
     text-decoration: none;
 }
 a:hover {
-    color: #DBDBDB;
+    color: #FFF;
     text-decoration: none;
     -webkit-transition: 500ms;
     -moz-transition: 500ms;
@@ -128,7 +128,7 @@ ul {
 li {
     border-radius: 100%;
     border: none;
-    color: #DBDBDB;
+    color: #FFF;
     margin: 8px;
     display: block;
     list-style: none;
@@ -137,15 +137,15 @@ li {
 }
 a {
     text-align: justify;
-    border: 2px solid #DBDBDB;
+    border: 2px solid #FFF;
     border-radius: 5px;
-    color: #DBDBDB;
+    color: #FFF;
     padding: 15px;
     padding-left: 30px;
     width: 70%;
 }
 a:hover {
-    color: #DBDBDB;
+    color: #FFF;
     text-decoration: none;
     -webkit-transition: 500ms;
     -moz-transition: 500ms;
@@ -155,7 +155,7 @@ a:hover {
 }
 .description {
     display: inline-block;
-    color: #DBDBDB;
+    color: #FFF;
     font-family: Arial;
     margin-left: 40px;
 }
