@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/igormp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://igormp.me
+  * I am igormp (https://keybase.io/igormp) on keybase.
+  * I have a public key with fingerprint F5DF 5607 1D5A FFBA 31C9  03F2 2D5C BAC8 529C 5C50
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101939c18dd4e5e3ac756f981c4e9754fb10fe53262be3821f3d59d8bf6d44a47960a",
+            "fingerprint": "f5df56071d5affba31c903f22d5cbac8529c5c50",
+            "host": "keybase.io",
+            "key_id": "2d5cbac8529c5c50",
+            "kid": "0101939c18dd4e5e3ac756f981c4e9754fb10fe53262be3821f3d59d8bf6d44a47960a",
+            "uid": "c460fe0269887e48bb2d260e9fb55819",
+            "username": "igormp"
+        },
+        "service": {
+            "hostname": "igormp.me",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1467433996,
+    "expire_in": 157680000,
+    "prev": "c34101a0ce2e3dd2a5940f51c065ad30925d9968d9b28b02e075334ad29cb111",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIjAnicrVJdSBVBGL3+YqJW4g9YD7IlEVx1Z3dn784N0cxITXqoVITkursze93U
+u9e9qyZilg++VAhaD6WQCEqWL5dARMuyLAg1kLAHLZNIhDQxsh8Es1mph6DH5mVm
+vjnnzPkO30RsmCM6pGMjsTxu4eJqyOR4R52jtCEvpolRDNzIuJuYKrKzkWpMApan
+SseMm2EBCxCPVCBhLBBIeFl1QVFDElAFglxQ0BTAagTynMgphJc4oPEYIiwpmogF
+QRZcSGRlxslous9LTL+p+ywqq0GsQZF1AQxlTVNkHqiI5TWOw1BVZFWCHFKhCllK
+rDQCNoOaU+QAydANWqMXz469f+D/s++6HTlVECma5UQkSS4iSIrCYU5kCdIUCCWA
+bGCAmD65hlC07jXMGj/T7GRorV5XiR2r3cdf7xn07GT8pmEZqlFNy5WW5Q+4bZrV
+6LdxDUTx/FbwKLoP0wgpo56YAd3wMW5Akaql25JAEF0CzyMkOhlywa+bxKPbCOgS
+JZYu+x9SbzfCCzQZmVUJR3iMORkigdUgUFkRyphnEQcxVZEwUjhJYTnCuiDPCzKm
+ASsAAMbuqdZnMG6B2pS9VDKge32yVWcSpvnJ43PhjpBoR2REqD1ajuhde/4MXGFB
+lGPmzKfOTNT1tvV+79P9UpYz7tI9GJt/Pq/9a+bh0lMJ6HTD2c362OHuKlBUZq7K
+OcGD2eEDQ5+/Z1U25WxH3434uffI3EPDmzla0XJ18kt6QndS9o31m6mF+wY78qfC
+U1PSpmrgo/CXs9NhjWOhjQcSU55vLv0YiTk0lnMtN50r3Q23NrVn44GGdtjXe2c5
+bOtVeXFWQf+JxZODyXXFl4Pv+xYrt45O5PqWjPj2qJHbL46VzAwt9JCKtJ6W+HUv
+SGpZ+SYq22VztdeHdSO4McN0zQdbY6c+tuW97pxbS+8vSr61UvLh3cB0m5V6ZTlS
+iJcqUntG36C1pgfHo+aDs78AUqQ7rg==
+=y42d
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/igormp
+
+==================================================================
