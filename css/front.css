@@ -1,13 +1,40 @@
 body {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: rgba(0, 0, 0, 0.85);
     position: absolute; 
     top: 0;
     bottom: 0;
     right: 0;
     left: 0;
     margin: 0;
+    /*background-color:#242424;
+    background-image: linear-gradient(30deg, #1c1c1c 12%, transparent 12.5%, transparent 87%, #1c1c1c 87.5%, #1c1c1c),
+    linear-gradient(150deg, #1c1c1c 12%, transparent 12.5%, transparent 87%, #1c1c1c 87.5%, #1c1c1c),
+    linear-gradient(30deg, #1c1c1c 12%, transparent 12.5%, transparent 87%, #1c1c1c 87.5%, #1c1c1c),
+    linear-gradient(150deg, #1c1c1c 12%, transparent 12.5%, transparent 87%, #1c1c1c 87.5%, #1c1c1c),
+    linear-gradient(60deg, #686868 25%, transparent 25.5%, transparent 75%, #686868 75%, #686868), 
+    linear-gradient(60deg, #686868 25%, transparent 25.5%, transparent 75%, #686868 75%, #686868);
+    background-size:80px 140px;
+    background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;*/
+
+    background:
+    radial-gradient(black 15%, transparent 16%) 0 0,
+    radial-gradient(black 15%, transparent 16%) 8px 8px,
+    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px,
+    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+    background-color:#1c1c1c;
+    background-size:16px 16px;
+
+    /*background:
+    linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
+    linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
+    linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
+    linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
+    linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
+    linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+    background-color: #131313;
+    background-size: 20px 20px;*/
 }
+/*
 #fullscreen {
     z-index: -999;
     min-height: 100%;
@@ -18,7 +45,7 @@ body {
     top: 0;
     left: 0;
 }
-
+*/
 h1 {
     color: #FFF;
     font-weight: bold;
