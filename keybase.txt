@@ -73,3 +73,59 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/igormp
 
 ==================================================================
+==================================================================
+https://keybase.io/igormp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://igor.mp
+  * I am igormp (https://keybase.io/igormp) on keybase.
+  * I have a public key ASAc6IvX6-kHf6dEocVdH8z8GRVhadPRsPqkIavucXFW3Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012038fb24b389de63946fc82c6638d6e7f06bb6e4879028a5de53720f6b8b9b46fc0a",
+      "host": "keybase.io",
+      "kid": "01201ce88bd7ebe9077fa744a1c55d1fccfc19156169d3d1b0faa421abee717156dd0a",
+      "uid": "c460fe0269887e48bb2d260e9fb55819",
+      "username": "igormp"
+    },
+    "merkle_root": {
+      "ctime": 1568240257,
+      "hash": "e70c096d5e52e4d7266c97f579121f9601f642d50be0c1fde3b9c3af42da66db6ec22c2539fed5f933c8a11c278f6c48933a1af06295b6c6f973f569a239bb11",
+      "hash_meta": "27c83a87d9577e164346bd4d4a613b85ca675db359a4fe528ebe23da6f5c1176",
+      "seqno": 6827749
+    },
+    "service": {
+      "entropy": "hklrXkYtTlswwCj/gvfC7WPl",
+      "hostname": "igor.mp",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568240262,
+  "expire_in": 504576000,
+  "prev": "46e3520d8860665f00a937e3223ba767031821117701d6b5aab67b09a90c12d1",
+  "seqno": 33,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHOiL1+vpB3+nRKHFXR/M/BkVYWnT0bD6pCGr7nFxVt0Kp3BheWxvYWTESpcCIcQgRuNSDYhgZl8AqTfjIjunZwMYIRF3Ada1qrZ7CakMEtHEICrKEn8djKFjqIK9wbkBywfRtfZDj6DprGYiskA1sFqxAgHCo3NpZ8RAnYbi4tFw+VGoK35NeB5vyPV+pMaOgD+T3QouSSlvtE/GtJZ7fzpQPmgaC5gIdllMNGPwI4mDT3dPCUpm9MPVA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFRCuxFGVg1mJxY0WvlS6A/FoQ4PRr5HfETiyD/WwmXlo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/igormp
+
+==================================================================
